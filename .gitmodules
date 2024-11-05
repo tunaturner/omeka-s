@@ -1,0 +1,3 @@
+[submodule "modules/Reconciliation"]
+	path = modules/Reconciliation
+	url = https://github.com/tunaturner/Omeka-S-Reconciliation.git
